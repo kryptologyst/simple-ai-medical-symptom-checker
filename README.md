@@ -1,4 +1,4 @@
-# AI Medical Symptom Checker
+# Simple AI Medical Symptom Checker
 
 A lightweight Gradio app that sends your symptoms to a local Ollama LLM and streams back a structured analysis.
 
