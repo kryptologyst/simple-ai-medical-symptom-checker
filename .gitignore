@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.env
+.venv/
+venv/
+.env.local
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+
+# Editors/IDE
+.vscode/
+.idea/
+*.swp
+
+# Caches & logs
+*.log
+.cache/
+.pytest_cache/
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# Node (if you ever add a frontend)
+node_modules/
